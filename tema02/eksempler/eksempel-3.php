@@ -15,11 +15,11 @@
     }
   else if ($svar == "ni") 
     {
-      print("Du har svart n p&aring; sp&oslash;rsm&aring;let om du er student ");
+      print("Du har svart nei p&aring; sp&oslash;rsm&aring;let om du er student ");
     }
   else  
     {
-      print("Du har ikke svart j eller n p&aring; sp&oslash;rsm&aring;let om du er student ");
+      print("Du har ikke svart ja eller n p&aring; sp&oslash;rsm&aring;let om du er student ");
     }
 
 ?>
