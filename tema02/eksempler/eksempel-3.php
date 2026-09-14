@@ -9,11 +9,11 @@
     {
       print("Du har ikke svart p&aring; sp&oslash;rsm&aring;let om du er student ");
     }
-  else if ($svar == "j")  
+  else if ($svar == "ja")  
     {
       print("Du har svart j p&aring; sp&oslash;rsm&aring;let om du er student ");
     }
-  else if ($svar == "n") 
+  else if ($svar == "ni") 
     {
       print("Du har svart n p&aring; sp&oslash;rsm&aring;let om du er student ");
     }
